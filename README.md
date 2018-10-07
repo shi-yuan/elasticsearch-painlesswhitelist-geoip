@@ -7,7 +7,7 @@ An geoip whitelisting additional classes and methods in painless
     ````
     ./bin/elasticsearch-plugin install https://github.com/shi-yuan/elasticsearch-painlesswhitelist-geoip/releases/download/v6.4.2/elasticsearch-painlesswhitelist-geoip-6.4.2.0-release.zip
     ````
-- The geoip config directory is located at $ES_HOME/config/ingest-geoip or $ES_HOME/config/painlesswhitelist-geoip and holds the shipped databases too. you can have a look at [Ingest Geoip Processor Plugin]()https://www.elastic.co/guide/en/elasticsearch/plugins/current/ingest-geoip.html)
+- The geoip config directory is located at $ES_HOME/config/ingest-geoip or $ES_HOME/config/painlesswhitelist-geoip and holds the shipped databases too. you can have a look at [Ingest Geoip Processor Plugin](https://www.elastic.co/guide/en/elasticsearch/plugins/current/ingest-geoip.html)
 
 
 ### Usage
