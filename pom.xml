@@ -5,7 +5,7 @@
     <groupId>org.nlpcn</groupId>
     <artifactId>elasticsearch-painlesswhitelist-geoip</artifactId>
     <version>6.4.2.0</version>
-    <description>An geoip whitelisting additional classes and methods in painless</description>
+    <description>Geoip whitelisting additional classes and methods in painless</description>
     <name>elasticsearch-painlesswhitelist-geoip</name>
 
     <properties>
