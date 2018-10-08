@@ -1,5 +1,5 @@
 # elasticsearch-painlesswhitelist-geoip
-An geoip whitelisting additional classes and methods in painless
+Geoip whitelisting additional classes and methods in painless
 
 
 ### Install
